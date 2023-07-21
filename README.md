@@ -1,4 +1,4 @@
-# Revisao 2.0
+# Exercícios de Revisão
 <div align="justify">
 
   1. Tem-se um conjunto de dados contendo a altura e o sexo
